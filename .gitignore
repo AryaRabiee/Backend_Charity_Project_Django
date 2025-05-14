@@ -1,0 +1,12 @@
+db.sqlite3
+# log files
+*.log
+# IDE settings
+.vscode/
+.idea/
+# Django migrations
+*/migrations/*
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
